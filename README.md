@@ -1,40 +1,69 @@
-# Hi, I'm Oscar 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Oscar%20Mhlongo&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🎓 Diploma in Information Technology Graduate  
-💻 Junior Software Developer & QA Tester  
-📍 Gauteng, South Africa  
+<h1 align="center">Hi 👋, I'm Oscar</h1>
+<h3 align="center">🎓 Diploma IT Graduate | ⚙️ Automation Enthusiast | 💻 Junior Developer</h3>
+
+---
 
 ## 🚀 About Me
-- Completed Diploma in IT (Software Development focus)
-- Skilled in Java, Web Development, and QA Testing
-- Passionate about building real-world systems
-- Currently seeking internship or junior opportunities
+- 🎓 Diploma in Information Technology (Software Development)
+- ⚙️ Focused on **Automation & Real-World Systems**
+- 💡 Strong interest in building scalable and intelligent solutions
+- 📍 Based in Gauteng, South Africa
+- 🔍 Currently seeking **internships / junior roles**
 
-## 🛠️ Skills
-- Python Coding
-- Java (NetBeans)
-- HTML, CSS, JavaScript
-- Git & GitHub
-- Manual Testing (QA)
-- MySQL / Basic Databases
+---
 
-## 📂 Projects
+## 🛠️ Tech Stack
 
-### 🔹 NzuzoFlow App
-AI-powered water analysis and decision-support system  
-- System design + logic implementation  
-- Focus on solving real-world problems  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,mysql,vscode" />
+</p>
 
-### 🔹 Java GUI Application
-- Built with NetBeans  
-- Database integration  
-- User interface + backend logic  
+---
+
+## ⚙️ Automation Focus
+- Building systems that **reduce manual work**
+- Logic-driven development
+- Process automation concepts
+- Future goal: **Test Automation & Smart Systems**
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 NzuzoFlow App
+🧠 AI-powered water analysis & decision-support system  
+- Designed to simulate intelligent system decisions  
+- Focus on real-world impact  
+- Scalable concept for future development  
+
+---
+
+### 💻 Java GUI Application
+- Built using NetBeans  
+- Database integration (MySQL)  
+- Full UI + backend logic  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
 
 ## 📈 Current Focus
-- Landing a QA / Software Dev role  
-- Improving real-world project experience  
-- Growing my GitHub portfolio  
+- ⚙️ Building automation-based projects  
+- 🚀 Growing strong developer portfolio  
+- 💼 Landing a junior developer / automation role  
+
+---
 
 ## 📫 Contact Me
-- Email: mhlongooscar78@gmail.com
-- Phone: 063 213 5656
+- 📧 your-email@example.com
